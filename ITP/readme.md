@@ -1,4 +1,4 @@
-# Introdução às Técncias de Programação
+# Introdução às Técnicas de Programação
 
 Disciplina de programação do bacharelado de TI
 
